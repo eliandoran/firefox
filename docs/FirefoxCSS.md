@@ -19,7 +19,7 @@ Cascade aims to remove a lot of the subjective clutter default Firefox comes wit
 
 ---
 
-<img align="left" width="350px" src="https://cdn.discordapp.com/attachments/1030274959886532618/1030466755216277594/unknown.png">
+<img align="left" width="350px" src="https://private-user-images.githubusercontent.com/85466117/291755706-7c55b3fe-ca2b-4bdc-9435-a1c248a82f50.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI3MTU1OTMsIm5iZiI6MTcyMjcxNTI5MywicGF0aCI6Ii84NTQ2NjExNy8yOTE3NTU3MDYtN2M1NWIzZmUtY2EyYi00YmRjLTk0MzUtYTFjMjQ4YTgyZjUwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODAzVDIwMDEzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFjMzA1YzZhNjA3MmRmZWQ4ZjY4Y2UxNzc0OWU5MzgzMjU5MTA1NjcxOGZkZjBmNTQxZmY0MGEzZTRmYTI1YzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Pfc78i5bLC_ovrh14jh0OeS0n022B-XLRwQXZvkcYr8">
 
 ### [Vertical tabs (WIP)](https://github.com/tnixc/firefox) by [Tnixc](https://github.com/tnixc/firefox)
 
